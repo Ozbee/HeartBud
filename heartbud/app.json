@@ -1,18 +1,15 @@
 {
   "expo": {
-    "name": "heartbud",
-    "slug": "snack-d33c6eaf-df22-4f60-832c-7c80d19adf08",
+    "name": "HeartBud",
+    "slug": "snack-abb311d0-ed1b-4867-a320-583ec4b1cee8",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hearticon.jpg",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
@@ -23,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#ffffff"
       }
     },
     "web": {
